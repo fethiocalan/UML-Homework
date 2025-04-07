@@ -1,0 +1,7 @@
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\bin\Debug\PhoneExample.exe.config
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\bin\Debug\PhoneExample.exe
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\bin\Debug\PhoneExample.pdb
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\obj\Debug\PhoneExample.csproj.AssemblyReference.cache
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\obj\Debug\PhoneExample.csproj.CoreCompileInputs.cache
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\obj\Debug\PhoneExample.exe
+C:\Users\ocala\Desktop\get_to_know_C#\PhoneExample\PhoneExample\obj\Debug\PhoneExample.pdb

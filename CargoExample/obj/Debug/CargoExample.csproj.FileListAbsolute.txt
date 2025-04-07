@@ -1,0 +1,14 @@
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\bin\Debug\CargoExample.exe.config
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\bin\Debug\CargoExample.exe
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\bin\Debug\CargoExample.pdb
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\obj\Debug\CargoExample.csproj.AssemblyReference.cache
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\obj\Debug\CargoExample.csproj.CoreCompileInputs.cache
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\obj\Debug\CargoExample.exe
+C:\Users\ocala\Desktop\get_to_know_C#\CargoExample\CargoExample\obj\Debug\CargoExample.pdb
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\bin\Debug\CargoExample.exe.config
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\bin\Debug\CargoExample.exe
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\bin\Debug\CargoExample.pdb
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\obj\Debug\CargoExample.csproj.AssemblyReference.cache
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\obj\Debug\CargoExample.csproj.CoreCompileInputs.cache
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\obj\Debug\CargoExample.exe
+C:\Users\ocala\OneDrive\Desktop\3 UML\CargoExample\obj\Debug\CargoExample.pdb
